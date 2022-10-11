@@ -1,0 +1,15 @@
+D:\Cursos\Logica-de-programacao\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\net6.0\ExercicioEntradaDados.exe
+D:\Cursos\Logica-de-programacao\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\net6.0\ExercicioEntradaDados.deps.json
+D:\Cursos\Logica-de-programacao\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\net6.0\ExercicioEntradaDados.runtimeconfig.json
+D:\Cursos\Logica-de-programacao\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\net6.0\ExercicioEntradaDados.dll
+D:\Cursos\Logica-de-programacao\ExercicioEntradaDados\ExercicioEntradaDados\bin\Debug\net6.0\ExercicioEntradaDados.pdb
+D:\Cursos\Logica-de-programacao\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\ExercicioEntradaDados.csproj.AssemblyReference.cache
+D:\Cursos\Logica-de-programacao\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\ExercicioEntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Logica-de-programacao\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\ExercicioEntradaDados.AssemblyInfoInputs.cache
+D:\Cursos\Logica-de-programacao\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\ExercicioEntradaDados.AssemblyInfo.cs
+D:\Cursos\Logica-de-programacao\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\ExercicioEntradaDados.csproj.CoreCompileInputs.cache
+D:\Cursos\Logica-de-programacao\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\ExercicioEntradaDados.dll
+D:\Cursos\Logica-de-programacao\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\refint\ExercicioEntradaDados.dll
+D:\Cursos\Logica-de-programacao\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\ExercicioEntradaDados.pdb
+D:\Cursos\Logica-de-programacao\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\ExercicioEntradaDados.genruntimeconfig.cache
+D:\Cursos\Logica-de-programacao\ExercicioEntradaDados\ExercicioEntradaDados\obj\Debug\net6.0\ref\ExercicioEntradaDados.dll

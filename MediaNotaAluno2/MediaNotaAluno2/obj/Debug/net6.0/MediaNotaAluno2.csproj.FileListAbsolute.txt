@@ -1,0 +1,15 @@
+D:\Cursos\Logica-de-programacao\MediaNotaAluno2\MediaNotaAluno2\bin\Debug\net6.0\MediaNotaAluno2.exe
+D:\Cursos\Logica-de-programacao\MediaNotaAluno2\MediaNotaAluno2\bin\Debug\net6.0\MediaNotaAluno2.deps.json
+D:\Cursos\Logica-de-programacao\MediaNotaAluno2\MediaNotaAluno2\bin\Debug\net6.0\MediaNotaAluno2.runtimeconfig.json
+D:\Cursos\Logica-de-programacao\MediaNotaAluno2\MediaNotaAluno2\bin\Debug\net6.0\MediaNotaAluno2.dll
+D:\Cursos\Logica-de-programacao\MediaNotaAluno2\MediaNotaAluno2\bin\Debug\net6.0\MediaNotaAluno2.pdb
+D:\Cursos\Logica-de-programacao\MediaNotaAluno2\MediaNotaAluno2\obj\Debug\net6.0\MediaNotaAluno2.csproj.AssemblyReference.cache
+D:\Cursos\Logica-de-programacao\MediaNotaAluno2\MediaNotaAluno2\obj\Debug\net6.0\MediaNotaAluno2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Logica-de-programacao\MediaNotaAluno2\MediaNotaAluno2\obj\Debug\net6.0\MediaNotaAluno2.AssemblyInfoInputs.cache
+D:\Cursos\Logica-de-programacao\MediaNotaAluno2\MediaNotaAluno2\obj\Debug\net6.0\MediaNotaAluno2.AssemblyInfo.cs
+D:\Cursos\Logica-de-programacao\MediaNotaAluno2\MediaNotaAluno2\obj\Debug\net6.0\MediaNotaAluno2.csproj.CoreCompileInputs.cache
+D:\Cursos\Logica-de-programacao\MediaNotaAluno2\MediaNotaAluno2\obj\Debug\net6.0\MediaNotaAluno2.dll
+D:\Cursos\Logica-de-programacao\MediaNotaAluno2\MediaNotaAluno2\obj\Debug\net6.0\refint\MediaNotaAluno2.dll
+D:\Cursos\Logica-de-programacao\MediaNotaAluno2\MediaNotaAluno2\obj\Debug\net6.0\MediaNotaAluno2.pdb
+D:\Cursos\Logica-de-programacao\MediaNotaAluno2\MediaNotaAluno2\obj\Debug\net6.0\MediaNotaAluno2.genruntimeconfig.cache
+D:\Cursos\Logica-de-programacao\MediaNotaAluno2\MediaNotaAluno2\obj\Debug\net6.0\ref\MediaNotaAluno2.dll

@@ -1,0 +1,15 @@
+D:\Cursos\Logica-de-programacao\SomaSimples\SomaSimples\bin\Debug\net6.0\SomaSimples.exe
+D:\Cursos\Logica-de-programacao\SomaSimples\SomaSimples\bin\Debug\net6.0\SomaSimples.deps.json
+D:\Cursos\Logica-de-programacao\SomaSimples\SomaSimples\bin\Debug\net6.0\SomaSimples.runtimeconfig.json
+D:\Cursos\Logica-de-programacao\SomaSimples\SomaSimples\bin\Debug\net6.0\SomaSimples.dll
+D:\Cursos\Logica-de-programacao\SomaSimples\SomaSimples\bin\Debug\net6.0\SomaSimples.pdb
+D:\Cursos\Logica-de-programacao\SomaSimples\SomaSimples\obj\Debug\net6.0\SomaSimples.csproj.AssemblyReference.cache
+D:\Cursos\Logica-de-programacao\SomaSimples\SomaSimples\obj\Debug\net6.0\SomaSimples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Logica-de-programacao\SomaSimples\SomaSimples\obj\Debug\net6.0\SomaSimples.AssemblyInfoInputs.cache
+D:\Cursos\Logica-de-programacao\SomaSimples\SomaSimples\obj\Debug\net6.0\SomaSimples.AssemblyInfo.cs
+D:\Cursos\Logica-de-programacao\SomaSimples\SomaSimples\obj\Debug\net6.0\SomaSimples.csproj.CoreCompileInputs.cache
+D:\Cursos\Logica-de-programacao\SomaSimples\SomaSimples\obj\Debug\net6.0\SomaSimples.dll
+D:\Cursos\Logica-de-programacao\SomaSimples\SomaSimples\obj\Debug\net6.0\refint\SomaSimples.dll
+D:\Cursos\Logica-de-programacao\SomaSimples\SomaSimples\obj\Debug\net6.0\SomaSimples.pdb
+D:\Cursos\Logica-de-programacao\SomaSimples\SomaSimples\obj\Debug\net6.0\SomaSimples.genruntimeconfig.cache
+D:\Cursos\Logica-de-programacao\SomaSimples\SomaSimples\obj\Debug\net6.0\ref\SomaSimples.dll

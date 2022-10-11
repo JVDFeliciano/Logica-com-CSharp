@@ -1,0 +1,15 @@
+D:\Cursos\Logica-de-programacao\FuncMatematicas\FuncMatematicas\bin\Debug\net6.0\FuncMatematicas.exe
+D:\Cursos\Logica-de-programacao\FuncMatematicas\FuncMatematicas\bin\Debug\net6.0\FuncMatematicas.deps.json
+D:\Cursos\Logica-de-programacao\FuncMatematicas\FuncMatematicas\bin\Debug\net6.0\FuncMatematicas.runtimeconfig.json
+D:\Cursos\Logica-de-programacao\FuncMatematicas\FuncMatematicas\bin\Debug\net6.0\FuncMatematicas.dll
+D:\Cursos\Logica-de-programacao\FuncMatematicas\FuncMatematicas\bin\Debug\net6.0\FuncMatematicas.pdb
+D:\Cursos\Logica-de-programacao\FuncMatematicas\FuncMatematicas\obj\Debug\net6.0\FuncMatematicas.csproj.AssemblyReference.cache
+D:\Cursos\Logica-de-programacao\FuncMatematicas\FuncMatematicas\obj\Debug\net6.0\FuncMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Logica-de-programacao\FuncMatematicas\FuncMatematicas\obj\Debug\net6.0\FuncMatematicas.AssemblyInfoInputs.cache
+D:\Cursos\Logica-de-programacao\FuncMatematicas\FuncMatematicas\obj\Debug\net6.0\FuncMatematicas.AssemblyInfo.cs
+D:\Cursos\Logica-de-programacao\FuncMatematicas\FuncMatematicas\obj\Debug\net6.0\FuncMatematicas.csproj.CoreCompileInputs.cache
+D:\Cursos\Logica-de-programacao\FuncMatematicas\FuncMatematicas\obj\Debug\net6.0\FuncMatematicas.dll
+D:\Cursos\Logica-de-programacao\FuncMatematicas\FuncMatematicas\obj\Debug\net6.0\refint\FuncMatematicas.dll
+D:\Cursos\Logica-de-programacao\FuncMatematicas\FuncMatematicas\obj\Debug\net6.0\FuncMatematicas.pdb
+D:\Cursos\Logica-de-programacao\FuncMatematicas\FuncMatematicas\obj\Debug\net6.0\FuncMatematicas.genruntimeconfig.cache
+D:\Cursos\Logica-de-programacao\FuncMatematicas\FuncMatematicas\obj\Debug\net6.0\ref\FuncMatematicas.dll

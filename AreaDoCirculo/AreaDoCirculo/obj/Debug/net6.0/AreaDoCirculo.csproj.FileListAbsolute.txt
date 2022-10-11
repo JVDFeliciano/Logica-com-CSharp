@@ -1,0 +1,15 @@
+D:\Cursos\Logica-de-programacao\AreaDoCirculo\AreaDoCirculo\bin\Debug\net6.0\AreaDoCirculo.exe
+D:\Cursos\Logica-de-programacao\AreaDoCirculo\AreaDoCirculo\bin\Debug\net6.0\AreaDoCirculo.deps.json
+D:\Cursos\Logica-de-programacao\AreaDoCirculo\AreaDoCirculo\bin\Debug\net6.0\AreaDoCirculo.runtimeconfig.json
+D:\Cursos\Logica-de-programacao\AreaDoCirculo\AreaDoCirculo\bin\Debug\net6.0\AreaDoCirculo.dll
+D:\Cursos\Logica-de-programacao\AreaDoCirculo\AreaDoCirculo\bin\Debug\net6.0\AreaDoCirculo.pdb
+D:\Cursos\Logica-de-programacao\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\AreaDoCirculo.csproj.AssemblyReference.cache
+D:\Cursos\Logica-de-programacao\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\AreaDoCirculo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Logica-de-programacao\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\AreaDoCirculo.AssemblyInfoInputs.cache
+D:\Cursos\Logica-de-programacao\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\AreaDoCirculo.AssemblyInfo.cs
+D:\Cursos\Logica-de-programacao\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\AreaDoCirculo.csproj.CoreCompileInputs.cache
+D:\Cursos\Logica-de-programacao\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\AreaDoCirculo.dll
+D:\Cursos\Logica-de-programacao\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\refint\AreaDoCirculo.dll
+D:\Cursos\Logica-de-programacao\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\AreaDoCirculo.pdb
+D:\Cursos\Logica-de-programacao\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\AreaDoCirculo.genruntimeconfig.cache
+D:\Cursos\Logica-de-programacao\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\ref\AreaDoCirculo.dll
